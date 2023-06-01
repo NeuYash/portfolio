@@ -194,6 +194,13 @@ header .navbar ul li a:hover {
   height: 100%;
   width: 100%;
 }
+
+.home #particles-js canvas {
+  position: absolute;
+  opacity: 0.8; 
+  /* Add any additional styling you prefer for the particles */
+}
+
 .home::before {
   content: "";
   position: absolute;
@@ -309,8 +316,8 @@ header .navbar ul li a:hover {
 .social-icons a.github:hover {
   background-color: #0e0e0e;
 }
-.social-icons a.twitter:hover {
-  background-color: #00aced;
+.social-icons a.hackerrank:hover {
+  background-color: #32c766;
 }
 .social-icons a.linkedin:hover {
   background-color: #007bb6;
@@ -345,6 +352,14 @@ header .navbar ul li a:hover {
 /* hero section end */
 
 /* about section starts */
+/* .home {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  min-height: 100vh;
+  align-items: center;
+} */
 .about {
   background: rgb(255, 255, 255);
 }
@@ -355,6 +370,15 @@ header .navbar ul li a:hover {
   flex-wrap: wrap;
   padding: 4rem;
 }
+/* .about #particles-js-about {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+} */
+
 .about .row .image {
   text-align: center;
   flex: 1 1 35rem;
