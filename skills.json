@@ -20,9 +20,9 @@
         "icon": "https://img.icons8.com/color/48/000000/firebase.png"
     },
     {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
-    },
+        "name": "Spring",
+        "icon": "https://img.icons8.com/color/48/000000/spring-logo.png"
+      },
     {
         "name": "MaterialUI",
         "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
@@ -60,13 +60,17 @@
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
-        "name": "Kotlin",
-        "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
+        "name": "Angular",
+        "icon": "https://img.icons8.com/color/48/000000/angularjs.png"
     },
     {
         "name": "PHP",
         "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
     },
+    {
+        "name": "Node JS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },      
     {
         "name": "Python",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
@@ -100,23 +104,44 @@
         "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
     },
     {
-        "name": "DigitalOcean",
-        "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
+        "name": "Kubernetes",
+        "icon": "https://img.icons8.com/color/48/000000/kubernetes.png"
     },
     {
         "name": "jQuery",
         "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
     },
     {
-        "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/000000/docker.png"
     },
+    {
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/color/48/000000/jenkins.png"
+    },
+    {
+        "name": "Travis CI",
+        "icon": "https://img.icons8.com/color/48/000000/travis-ci.png"
+    },
+    {
+        "name": "Selenium",
+        "icon": "https://img.icons8.com/color/48/000000/selenium-test-automation.png"
+    },                  
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
+        "name": "Excel",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"
+    },
+    {
+        "name": "Analytics",
+        "icon": "https://img.icons8.com/color/48/000000/google-analytics.png"
+    },
+    {
+        "name": "GCP",
+        "icon": "https://img.icons8.com/color/48/000000/google-cloud-platform.png"
+    }
+               
 ]

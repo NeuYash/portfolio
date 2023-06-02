@@ -1,0 +1,123 @@
+[
+    {
+        "name": "AssetManagementSystem",
+        "desc": "Built Asset Management system for organisation with Mern Stack and J2ee FullStack. ID:Maya pass: qwerty123",
+        "image": "AssetMgmt.png",
+        "category": "FullStack",
+        "links": {
+          "view": "https://asset-management-ui.web.app/",
+          "code": "https://github.com/NeuYash/Asset_Management_System"
+        }
+    },
+    {
+        "name": "BasicPortfolio",
+        "desc": "First Attempt to build a Portfolio page with basic HTML CSS.",
+        "image": "basicportfolio.png",
+        "category": "Frontend",
+        "links": {
+          "view": "https://neuyash.github.io/BasicPortfolio/",
+          "code": "https://github.com/NeuYash/BasicPortfolio"
+        }
+    },
+    {
+        "name": "FreshHarvests",
+        "desc": "Online Fresh Grocery Item Store with 500+ items. Created with MERN Stack and Atlas Cloud database",
+        "image": "FreshHarvests.png",
+        "category": "Frontend",
+        "links": {
+          "view": "https://github.com/RajatSharmaNEU/FreshHarvests",
+          "code": "https://github.com/RajatSharmaNEU/FreshHarvests"
+        }
+    },
+    {
+      "name": "Orphanage_Management",
+      "desc": "developed to aid these orphanages by coordinating with orphanages, police stations, hospitals and finance organizations in the city to bring up the orphans and provide them the necessities.",
+      "image": "orphmgmt.jpeg",
+      "category": "FullStack",
+      "links": {
+        "view": "https://github.com/NeuYash/Orphanage_Management",
+        "code": "https://github.com/Chakradhar-Grandhi/Orphanage_Mgmt"
+      }
+    },
+    {
+        "name": "Productivity Analyzer",
+        "desc": "Developed an automated Task-Tracker tool that monitors and analyzes Employee tasks and presents an efficiency report",
+        "image": "cmsoon.png",
+        "category": "FullStack",
+        "links": {
+          "view": "https://github.com/NeuYash/Productivity_Tracker",
+          "code": "https://github.com/NeuYash/Productivity_Tracker"
+        }
+    },
+    {
+        "name": "JourneyGenius",
+        "desc": "Short Distance analysis application for traveling salesman. Invented 6 optimization algorithms.",
+        "image": "lapy.jpg",
+        "category": "FullStack",
+        "links": {
+          "view": "https://github.com/NeuYash/PSAProject",
+          "code": "https://github.com/NeuYash/PSAProject"
+        }
+    },
+    {
+        "name": "Disaster Tweet Predictor",
+        "desc": "Short Distance analysis application for traveling salesman. Invented 6 optimization algorithms.",
+        "image": "tweetpredictor.jpeg",
+        "category": "FullStack",
+        "links": {
+          "view": "https://github.com/NeuYash/Disaster_Tweet_Predictor",
+          "code": "https://github.com/NeuYash/Disaster_Tweet_Predictor"
+        }
+    },
+    {
+        "name": "DataScience AI/ML",
+        "desc": "Gist of AI/ML practices with various regression and visualization libraries. Use of PowerBI to analyze data.",
+        "image": "dsaiml.png",
+        "category": "FullStack",
+        "links": {
+          "view": "https://github.com/NeuYash/Disaster_Tweet_Predictor",
+          "code": "https://github.com/NeuYash/Disaster_Tweet_Predictor"
+        }
+    },
+    {
+        "name": "Java-Thymleaf",
+        "desc": "CRUD operation using Thymleaf and ava Spring Boot",
+        "image": "javathymleaf.png",
+        "category": "FullStack",
+        "links": {
+          "view": "https://github.com/NeuYash/Java_Thymleaf",
+          "code": "https://github.com/NeuYash/Java_Thymleaf"
+        }
+    },
+    {
+        "name": "E-Learning",
+        "desc": "Education platform for students with active tests, involves FullStack technologies, Encription algorithms and AWS S3 cloud storage",
+        "image": "eLearning.png",
+        "category": "FullStack",
+        "links": {
+          "view": "https://github.com/NeuYash/E-Learning_System",
+          "code": "https://github.com/NeuYash/E-Learning_System"
+        }
+    },
+    {
+        "name": "HealthSure",
+        "desc": "This application is created with Java Swing to cater Health Industry of any given city. Provides Interconnection between 4 interconnected organisations",
+        "image": "healthsure.webp",
+        "category": "FullStack",
+        "links": {
+          "view": "https://github.com/NeuYash/Healthcare_Management",
+          "code": "https://github.com/NeuYash/Healthcare_Management"
+        }
+    },
+    {
+        "name": "EmployeeManagement",
+        "desc": "This application is created with Java SpringBoot for EmployeeCrud Operations. It is a backend Project, hence runs on Rest API's. Swagger.io is integrated for better ui operations.",
+        
+        "image": "empmgmt.png",
+        "category": "Backend",
+        "links": {
+          "view": "https://github.com/NeuYash/EmployeeManagement_SpringBoot",
+          "code": "https://github.com/NeuYash/EmployeeManagement_SpringBoot"
+        }
+    }
+]
