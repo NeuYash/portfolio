@@ -14,8 +14,8 @@ Portfolio website  build using HTML5, CSS3, JavaScript and jQuery.
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](./assets/images/hero.png)
-![ss](./assets/images/hero.png)
+![mockup720](./assets/images/landingpage.png)
+![ss](./assets/images/skills.png)
 
 
 <h2>📬 Contact</h2>
@@ -23,9 +23,9 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 If you want to contact me, you can reach me through below handles.
 
-<!-- &nbsp;&nbsp;<a href="https://www.linkedin.com/in/yashpawar642/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a> -->
-&nbsp;&nbsp;- LinkedIn: [Yash Pawar](https://www.linkedin.com/in/yashpawar642/)
-- Email: [![Email](https://example.com/mail-logo.png)](mailto:your-email@example.com)
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/yashpawar642/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+<a href="mailto:pawar.ya@northeastern.edu"><img src="./assets/images/gmail.webp" width="30"></img></a>
+
 
 © 2022 Yash Pawar
 
