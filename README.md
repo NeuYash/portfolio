@@ -13,7 +13,7 @@ Portfolio website  build using HTML5, CSS3, JavaScript and jQuery.
 ### Extras : 
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
-## 📌 Sneak Peek of Main Page 🙈 :
+## 📌 Sneak Peek of Main Page :
 ![mockup720](./assets/images/landingpage.png)
 ![ss](./assets/images/skills.png)
 
@@ -27,7 +27,7 @@ If you want to contact me, you can reach me through below handles.
 <a href="mailto:pawar.ya@northeastern.edu"><img src="./assets/images/gmail.webp" width="30"></img></a>
 
 
-© 2022 Yash Pawar
+© 2023 Yash Pawar
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
