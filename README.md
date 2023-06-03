@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website  build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="https://neuyash.github.io/website1/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://neuyash.github.io/portfolio/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
