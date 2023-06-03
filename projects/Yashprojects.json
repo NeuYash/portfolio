@@ -32,7 +32,7 @@
     {
       "name": "Orphanage_Management",
       "desc": "developed to aid these orphanages by coordinating with orphanages, police stations, hospitals and finance organizations in the city to bring up the orphans and provide them the necessities.",
-      "image": "orphmgmt.jpeg",
+      "image": "omgmt.png",
       "category": "FullStack",
       "links": {
         "view": "https://github.com/NeuYash/Orphanage_Management",
