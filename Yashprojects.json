@@ -1,4 +1,14 @@
 [
+  {
+    "name": "JavaScript Projects",
+    "desc": "Built Gist of JavaScript projects HTML/CSS and Mern Stack which includes Games and ToDo list",
+    "image": "JSProjects.png",
+    "category": "Frontend",
+    "links": {
+      "view": "https://neuyash.github.io/JavaScript-Projects/",
+      "code": "https://github.com/NeuYash/JavaScript-Projects"
+    }
+  }, 
     {
         "name": "AssetManagementSystem",
         "desc": "Built Asset Management system for organisation with Mern Stack and J2ee FullStack. ID:Maya pass: qwerty123",
