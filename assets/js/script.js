@@ -291,9 +291,9 @@ srtop.reveal('.education .box', { interval: 200 });
 srtop.reveal('.work .box', { interval: 200 });
 
 /* SCROLL EXPERIENCE */
-srtop.reveal('.experience .timeline', { delay: 400 });
-srtop.reveal('.experience .timeline .container', { interval: 400 });
+// srtop.reveal('.experience .timeline', { delay: 400 });
+// srtop.reveal('.experience .timeline .container', { interval: 400 });
 
 /* SCROLL CONTACT */
-srtop.reveal('.contact .container', { delay: 400 });
-srtop.reveal('.contact .container .form-group', { delay: 400 });
+// srtop.reveal('.contact .container', { delay: 400 });
+// srtop.reveal('.contact .container .form-group', { delay: 400 });
