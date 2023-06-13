@@ -41,7 +41,7 @@
     },
     {
       "name": "Orphanage_Management",
-      "desc": "developed to aid these orphanages by coordinating with orphanages, police stations, hospitals and finance organizations in the city to bring up the orphans and provide them the necessities.",
+      "desc": "Coordinated with orphanages, police stations, hospitals, and finance organizations to support orphanages and provide essential resources for orphans.",
       "image": "omgmt.png",
       "category": "FullStack",
       "links": {
@@ -73,7 +73,7 @@
         "name": "Disaster Tweet Predictor",
         "desc": "Short Distance analysis application for traveling salesman. Invented 6 optimization algorithms.",
         "image": "tweetpredictor.jpeg",
-        "category": "FullStack",
+        "category": "Backend",
         "links": {
           "view": "https://github.com/NeuYash/Disaster_Tweet_Predictor",
           "code": "https://github.com/NeuYash/Disaster_Tweet_Predictor"
@@ -83,7 +83,7 @@
         "name": "DataScience AI/ML",
         "desc": "Gist of AI/ML practices with various regression and visualization libraries. Use of PowerBI to analyze data.",
         "image": "dsaiml.png",
-        "category": "FullStack",
+        "category": "Backend",
         "links": {
           "view": "https://github.com/NeuYash/Disaster_Tweet_Predictor",
           "code": "https://github.com/NeuYash/Disaster_Tweet_Predictor"
@@ -121,7 +121,7 @@
     },
     {
         "name": "EmployeeManagement",
-        "desc": "This application is created with Java SpringBoot for EmployeeCrud Operations. It is a backend Project, hence runs on Rest API's. Swagger.io is integrated for better ui operations.",
+        "desc": "This Java SpringBoot application enables Employee CRUD operations through REST APIs, with integrated Swagger.io for improved UI functionality.",
         
         "image": "empmgmt.png",
         "category": "Backend",
@@ -129,5 +129,16 @@
           "view": "https://github.com/NeuYash/EmployeeManagement_SpringBoot",
           "code": "https://github.com/NeuYash/EmployeeManagement_SpringBoot"
         }
-    }
+    },
+    {
+      "name": "Sociable",
+      "desc": "Created a Tinder replica with advanced search filters and location-based matching. Integrated Twitter API for data retrieval. Developed using MySql Server.",
+      
+      "image": "sociable.png",
+      "category": "Backend",
+      "links": {
+        "view": "",
+        "code": "https://github.com/NeuYash/Sociable"
+      }
+  }
 ]
