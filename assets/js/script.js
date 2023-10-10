@@ -131,7 +131,7 @@ function showProjects(projects) {
     projects.forEach(project => {
         projectsHTML += `
         <div class="grid-item ${project.category}">
-        <div class="box tilt" style="width: 360px; margin: 1rem">
+        <div class="box tilt" style="width: 350px; margin: 1rem">
       <img draggable="false" src="./assets/images/yashprojects/${project.image}" alt="project" />
       <div class="content">
         <div class="tag">
