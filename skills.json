@@ -60,7 +60,7 @@
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
-        "name": "Angular",
+        "name": "AngularJS",
         "icon": "https://img.icons8.com/color/48/000000/angularjs.png"
     },
     {
@@ -68,7 +68,7 @@
         "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
     },
     {
-        "name": "Node JS",
+        "name": "NodeJS",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },      
     {
@@ -140,7 +140,20 @@
         "icon": "https://img.icons8.com/color/48/000000/google-analytics.png"
     },
     {
-        "name": "GCP",
-        "icon": "https://img.icons8.com/color/48/000000/google-cloud-platform.png"
-    }                   
+        "name": "Swift5",
+        "icon": "https://img.icons8.com/color/48/000000/swift.png"
+    },
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/color/48/tableau-software.png"
+    },
+    {
+        "name": "Jira",
+        "icon": "https://img.icons8.com/nolan/64/jira.png"
+    },
+    {
+        "name": "Jupyter",
+        "icon": "https://img.icons8.com/fluency/48/jupyter.png"
+    }
+                      
 ]
