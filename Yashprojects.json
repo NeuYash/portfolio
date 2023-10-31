@@ -143,7 +143,7 @@
   },
   {
     "name": "MBTA Live Visualization",
-    "desc": "A live Tramp visualization website that shows closest train arrival time to your desired tramp station. Website optimized for Firefox browser",
+    "desc": "A live Tramp visualization website that shows closest train arrival time to your desired tramp station.",
     
     "image": "MBTA.png",
     "category": "Python",
