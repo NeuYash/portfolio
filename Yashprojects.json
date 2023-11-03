@@ -10,13 +10,13 @@
     }
   }, 
     {
-        "name": "AssetManagementSystem",
+        "name": "StockHub",
         "desc": "Built Asset Management system for organisation with Mern Stack and J2ee FullStack. ID:Maya pass: qwerty123",
         "image": "AssetMgmt.png",
         "category": "FullStack",
         "links": {
           "view": "https://asset-management-ui.web.app/",
-          "code": "https://github.com/NeuYash/Asset_Management_System"
+          "code": "https://github.com/NeuYash/StockHub"
         }
     },
     {
@@ -50,13 +50,13 @@
       }
     },
     {
-        "name": "Productivity Analyzer",
+        "name": "TaskPulse",
         "desc": "Developed an automated Task-Tracker tool that monitors and analyzes Employee tasks and presents an efficiency report",
         "image": "cmsoon.png",
         "category": "FullStack",
         "links": {
-          "view": "https://github.com/NeuYash/Productivity_Tracker",
-          "code": "https://github.com/NeuYash/Productivity_Tracker"
+          "view": "https://github.com/NeuYash/TaskPulse",
+          "code": "https://github.com/NeuYash/TaskPulse"
         }
     },
     {
