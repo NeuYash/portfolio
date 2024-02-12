@@ -339,6 +339,9 @@ header .navbar ul li a:hover {
 .social-icons a.instagram:hover {
   background-color: #ee00da;
 }
+.social-icons a.youtube:hover {
+  background-color: #FF0000; /* Red color for YouTube */
+}
 /* social icons end */
 
 /* hero media queries starts*/
