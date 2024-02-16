@@ -151,5 +151,16 @@
       "view": "https://mbta-live-next.vercel.app/",
       "code": "https://github.com/NeuYash/MBTA-Live-Visualization"
     }
-}
+  },
+  {
+    "name": "Todo-List",
+    "desc": "A todo-list created using Vue.Js Framework and uses localstorage for storing tasks",
+  
+    "image": "Todo.png",
+    "category": "Frontend",
+    "links": {
+      "view": "https://github.com/NeuYash/vueJs-todoList",
+      "code": "https://github.com/NeuYash/vueJs-todoList"
+    }
+  }
 ]
