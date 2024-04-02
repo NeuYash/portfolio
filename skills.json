@@ -1,4 +1,12 @@
-[
+[   
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Spring",
+        "icon": "https://img.icons8.com/color/48/000000/spring-logo.png"
+    },
     {
         "name": "ReactJS",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
@@ -20,16 +28,8 @@
         "icon": "https://img.icons8.com/color/48/000000/firebase.png"
     },
     {
-        "name": "Spring",
-        "icon": "https://img.icons8.com/color/48/000000/spring-logo.png"
-      },
-    {
         "name": "MaterialUI",
         "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
-    },
-    {
-        "name": "ChakraUI",
-        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
     },
     {
         "name": "TailwindCSS",
@@ -56,16 +56,8 @@
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
-    },
-    {
         "name": "AngularJS",
         "icon": "https://img.icons8.com/color/48/000000/angularjs.png"
-    },
-    {
-        "name": "PHP",
-        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
     },
     {
         "name": "NodeJS",
@@ -120,16 +112,16 @@
         "icon": "https://img.icons8.com/color/48/000000/jenkins.png"
     },
     {
-        "name": "Travis CI",
-        "icon": "https://img.icons8.com/color/48/000000/travis-ci.png"
-    },
-    {
         "name": "Selenium",
         "icon": "https://img.icons8.com/color/48/000000/selenium-test-automation.png"
     },                  
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "GitLab",
+        "icon": "https://img.icons8.com/color/48/000000/gitlab.png"
     },
     {
         "name": "Excel",
@@ -140,9 +132,21 @@
         "icon": "https://img.icons8.com/color/48/000000/google-analytics.png"
     },
     {
-        "name": "Swift5",
-        "icon": "https://img.icons8.com/color/48/000000/swift.png"
+        "name": "Redis",
+        "icon": "https://img.icons8.com/color/48/000000/redis.png"
     },
+    {
+        "name": "Tomcat",
+        "icon": "https://img.icons8.com/color/48/000000/tomcat.png"
+    },
+    {
+        "name": "Hibernate",
+        "icon": "https://img.icons8.com/color/48/000000/hibernate.png"
+    },    
+    {
+        "name": "AWS CloudWatch",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },            
     {
         "name": "Tableau",
         "icon": "https://img.icons8.com/color/48/tableau-software.png"
