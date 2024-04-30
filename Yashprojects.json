@@ -1,5 +1,15 @@
 [
   {
+  "name": "DesignTwitter",
+  "desc": "Twitter application in SpringBoot and Thymleaf to portray all necessary Twitter fundamentals",
+  "image": "looney-13.png",
+  "category": "FullStack",
+  "links": {
+    "view": "https://github.com/NeuYash/DesignTwitter",
+    "code": "https://github.com/NeuYash/DesignTwitter"
+  }
+  },
+  {
     "name": "JavaScript Projects",
     "desc": "Built Gist of JavaScript projects HTML/CSS and Mern Stack which includes Games and ToDo list",
     "image": "Javascript.png",
@@ -17,26 +27,6 @@
     "links": {
       "view": "https://asset-management-ui.web.app/",
       "code": "https://github.com/NeuYash/StockHub"
-    }
-  },
-  {
-    "name": "DesignTwitter",
-    "desc": "Twitter application in SpringBoot and Thymleaf to portray all necessary Twitter fundamentals",
-    "image": "looney-13.png",
-    "category": "FullStack",
-    "links": {
-      "view": "https://github.com/NeuYash/DesignTwitter",
-      "code": "https://github.com/NeuYash/DesignTwitter"
-    }
-  },
-  {
-    "name": "BasicPortfolio",
-    "desc": "First Attempt to build a Portfolio page with basic HTML CSS.",
-    "image": "basicportfolio.png",
-    "category": "Frontend",
-    "links": {
-      "view": "https://neuyash.github.io/BasicPortfolio/",
-      "code": "https://github.com/NeuYash/BasicPortfolio"
     }
   },
   {
